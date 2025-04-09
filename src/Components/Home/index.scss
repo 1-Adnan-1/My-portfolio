@@ -6,13 +6,18 @@
       margin-top: 150px;
       display: block;
       h1 {
-        font-size: 30px;
+        font-size: 25px;
         white-space: nowrap;
+        margin-left: -10px;
       }
-      h2 {
-        font-size: 12px;
-        padding: 30px;
-        white-space: normal;
+      .desktop-title {
+        display: none;
+      }
+      .mobile-title {
+        display: block;
+        font-size: 13px;
+        margin-left: -10px;
+        white-space: nowrap;
       }
     }
   }
@@ -63,6 +68,9 @@
     font-family: sans-serif;
     letter-spacing: 3px;
     animation: fadeIn 1s 1.8s backwards;
+  }
+  .mobile-title {
+    display: none;
   }
   .flas-button {
     color: #ffd700;

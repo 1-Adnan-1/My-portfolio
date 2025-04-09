@@ -96,7 +96,12 @@ const Home = () => {
                 idx={37}
               />
             </h1>
-            <h2>Frontend Developer / React Developer / Software Developer</h2>
+            <h2 className="desktop-title">
+              Frontend Developer / React Developer / Software Developer
+            </h2>
+            <h2 className="mobile-title">
+              Frontend Developer / React Developer
+            </h2>
             <Link to="/contact" className="flas-button">
               İLETİŞİME GEÇ
             </Link>

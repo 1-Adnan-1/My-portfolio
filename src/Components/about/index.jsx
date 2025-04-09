@@ -49,14 +49,16 @@ const About = () => {
             uygulamaları geliştirme.
           </p>
 
-          <h3>Kişisel Yetenekler</h3>
-          <p>
+          <h3 className="hide-on-mobile">Kişisel Yetenekler</h3>
+          <p className="hide-on-mobile">
             Takım çalışmasında iş birliği ve iletişim becerisi, problem çözme
             odaklı analitik düşünme, bireysel görevlerde sorumluluk bilinci ve
             detay odaklı çalışma.
           </p>
-          <h3>Eğitim</h3>
-          <p>Mustafa Kemal Üniversitesi Bilgisayar Teknolojisi 2024 - 2026</p>
+          <h3 className="hide-on-mobile">Eğitim</h3>
+          <p className="hide-on-mobile">
+            Mustafa Kemal Üniversitesi Bilgisayar Teknolojisi 2024 - 2026
+          </p>
         </div>
         <div className="stage-cube-cont">
           <div className="cubespinner">

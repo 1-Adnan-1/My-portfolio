@@ -111,11 +111,15 @@
   .stage-cube-cont {
     display: none;
   }
+
   .text-zone {
     margin-top: 90px;
     margin-left: 7%;
     h1 {
       margin-left: 30px;
+    }
+    .hide-on-mobile {
+      display: none;
     }
 
     h2,
