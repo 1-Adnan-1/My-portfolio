@@ -28,4 +28,4 @@ Merhaba! Front-End Developer olarak hazırladığım bu portfolyo sitesi; kim ol
 - 🔄 **Yumuşak geçişler ve animasyonlar**
 - 🔔 **Toast bildirimleriyle kullanıcı geri bildirimi**
 
-![portfolio-gif](./assets/portfolio-preview.gif)
+![portfolio-gif](./public/ekran.gif)
