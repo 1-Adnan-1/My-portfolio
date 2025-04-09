@@ -97,13 +97,17 @@
     color: #ffd700;
   }
 
-  p {
+  h6 {
     font-size: 17px !important;
     font-weight: bold !important;
+    color: #fff;
     line-height: 1.8;
     margin-bottom: 20px;
     display: block;
     white-space: normal;
+  }
+  .mobile {
+    display: none;
   }
 }
 
@@ -111,23 +115,20 @@
   .stage-cube-cont {
     display: none;
   }
-
   .text-zone {
     margin-top: 90px;
     margin-left: 7%;
     h1 {
       margin-left: 30px;
     }
-    .hide-on-mobile {
-      display: none;
-    }
 
     h2,
     h3 {
       font-size: 20px;
     }
-    p {
+    h6 {
       font-size: 15px !important;
+      color: #fff;
       font-weight: normal !important;
     }
   }

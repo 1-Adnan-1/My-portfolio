@@ -35,30 +35,30 @@ const About = () => {
             />
           </h1>
 
-          <p>
+          <h6>
             Türkiye'den tutkulu bir Front-End ve React Developer olarak, modern
             web teknolojileriyle performans odaklı uygulamalar geliştiriyorum.
             JavaScript'e olan ilgim ve güçlü iletişim becerilerimle ekip
             çalışmalarında etkin rol alıyorum.
-          </p>
+          </h6>
 
           <h3>Teknik Yetenekler</h3>
-          <p>
+          <h6>
             HTML, CSS, SCSS, JavaScript (ES6+), TypeScript, React, Next.js,
             Redux, Redux Toolkit ve Firebase ile modern ve responsive web
             uygulamaları geliştirme.
-          </p>
+          </h6>
 
-          <h3 className="hide-on-mobile">Kişisel Yetenekler</h3>
-          <p className="hide-on-mobile">
+          <h3 className="mobile">Kişisel Yetenekler</h3>
+          <h6 className="mobile">
             Takım çalışmasında iş birliği ve iletişim becerisi, problem çözme
             odaklı analitik düşünme, bireysel görevlerde sorumluluk bilinci ve
             detay odaklı çalışma.
-          </p>
-          <h3 className="hide-on-mobile">Eğitim</h3>
-          <p className="hide-on-mobile">
+          </h6>
+          <h3 className="mobile">Eğitim</h3>
+          <h6 className="mobile">
             Mustafa Kemal Üniversitesi Bilgisayar Teknolojisi 2024 - 2026
-          </p>
+          </h6>
         </div>
         <div className="stage-cube-cont">
           <div className="cubespinner">
