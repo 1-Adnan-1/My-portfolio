@@ -118,27 +118,14 @@ const Contact = () => {
         <div className="contact-details-right">
           <div className="info-card">
             <i className="fas fa-phone-alt"></i>
-            <h4>Bizi Arayın</h4>
+            <h4>Telefon</h4>
             <p>0530 488 8175</p>
           </div>
-          <div className="info-card">
-            <i className="fas fa-map-marker-alt"></i>
-            <h4>Konum</h4>
-            <p>Kahramanmaraş</p>
-          </div>
+
           <div className="info-card">
             <i className="fas fa-envelope"></i>
             <h4>E-Posta</h4>
             <p>altintasadnan9@gmail.com</p>
-          </div>
-          <div className="info-card">
-            <i className="fas fa-globe"></i>
-            <h4>Web Sitesi</h4>
-            <p>
-              <a href="#" class="disabled-link" target="_blank">
-                Web
-              </a>
-            </p>
           </div>
         </div>
       </div>
