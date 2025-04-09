@@ -106,9 +106,6 @@
     display: block;
     white-space: normal;
   }
-  .mobile {
-    display: none;
-  }
 }
 
 @media (max-width: 768px) {
@@ -130,6 +127,9 @@
       font-size: 15px !important;
       color: #fff;
       font-weight: normal !important;
+    }
+    .mobile {
+      display: none;
     }
   }
 }
