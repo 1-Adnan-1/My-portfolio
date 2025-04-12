@@ -99,9 +99,7 @@ const Home = () => {
             <h2 className="desktop-title">
               Frontend Developer / React Developer / Software Developer
             </h2>
-            <h2 className="mobile-title">
-              Frontend Developer / React Developer
-            </h2>
+            <h2 className="mobile-title">React Frontend Developer</h2>
             <Link to="/contact" className="flas-button">
               İLETİŞİME GEÇ
             </Link>

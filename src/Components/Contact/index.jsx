@@ -63,11 +63,11 @@ const Contact = () => {
                 idx={15}
               />
             </h1>
-            <p>
+            <h6>
               İletişim için aşağıdaki formu doldurabilirsiniz. Mesajınız
               tarafıma ulaştığında en kısa sürede dönüş sağlayacağım. İlginiz
               için teşekkür ederim.
-            </p>
+            </h6>
             <div className="contact-form">
               <form ref={refForm} onSubmit={sendEmail}>
                 <ul>
